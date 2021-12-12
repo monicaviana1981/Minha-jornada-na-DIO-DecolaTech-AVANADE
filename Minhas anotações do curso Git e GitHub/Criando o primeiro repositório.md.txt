@@ -1,4 +1,4 @@
-# Curso Git e GitHub:cat: 
+# Curso Git e GitHub
 
 ## Controle de versão
 
